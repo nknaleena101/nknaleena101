@@ -1,8 +1,8 @@
 <p align="center">
   <img
     src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"
-    width="450px"
-    height="240"
+    width="300px"
+    height="140"
   />
 </p>
 <h1 align="center">Hi 👋, I'm Naleena Kumarasinghe</h1>
@@ -18,7 +18,6 @@
 </div>
 
 
----
 
 <div style="text-align: center; margin: 20px 0">
   <h3 align="center" style="margin-bottom: 10px">Connect with me:</h3>
