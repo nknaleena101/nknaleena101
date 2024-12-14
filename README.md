@@ -1,34 +1,22 @@
 <p align="center">
   <img
-    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
-    width="100px"
+    src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"
+    width="450px"
+    height="240"
   />
 </p>
 <h1 align="center">Hi 👋, I'm Naleena Kumarasinghe</h1>
 <h3 align="center">A passionate full stack developer from Sri lanka</h3>
 
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="left">
-      <p>
-        🔭 I’m currently working on
-        <a href="https://github.com/nknaleena101/mood_tracker">Mood Tracker</a>
-      </p>
-      <p>🌱 I’m currently learning <b>MERN</b></p>
-      <p>🎓 I’m an Undergraduate at <b>NSBM</b></p>
-      <p>📫 How to reach me <a href="">nknaleena101@gmail.com</a></p>
-    </td>
-    <td width="50%" align="center">
-      <img
-        align="center"
-        alt="Coding"
-        width="450"
-        height="170"
-        src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"
-      />
-    </td>
-  </tr>
-</table>
+<div>
+  <div>
+    <p align="center">🔭 I’m currently working on <a href="https://github.com/nknaleena101/mood_tracker">Mood Tracker</a></p>
+    <p align="center">🌱 I’m currently learning <b>MERN</b></p>
+    <p align="center">🎓 I’m an Undergraduate at <b>NSBM</b></p>
+    <p align="center">📫 How to reach me <a href="mailto:nknaleena101@gmail.com">nknaleena101@gmail.com</a></p>
+  </div>
+</div>
+
 
 ---
 
