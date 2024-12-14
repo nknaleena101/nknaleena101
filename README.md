@@ -5,7 +5,7 @@
   />
 </p>
 <h1 align="center">Hi 👋, I'm Naleena Kumarasinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">A passionate full stack developer from Sri lanka</h3>
 
 <table align="center">
   <tr border="none">
@@ -15,7 +15,7 @@
         <a href="https://github.com/nknaleena101/mood_tracker">Mood Tracker</a>
       </p>
       <p>🌱 I’m currently learning <b>MERN</b></p>
-      <p>🧑‍🎓 I’m an Undergraduate at <b>NSBM</b></p>
+      <p>🎓 I’m an Undergraduate at <b>NSBM</b></p>
       <p>📫 How to reach me <a href="">nknaleena101@gmail.com</a></p>
     </td>
     <td width="50%" align="center">
@@ -23,7 +23,8 @@
         align="center"
         alt="Coding"
         width="450"
-        src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
+        height="170"
+        src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"
       />
     </td>
   </tr>
