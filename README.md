@@ -95,14 +95,6 @@
         height="50"
       />
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg"
-        alt="bootstrap"
-        width="50"
-        height="50"
-      />
-    </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
       <img
         src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg"
@@ -155,22 +147,6 @@
       <img
         src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
         alt="tailwind"
-        width="50"
-        height="50"
-      />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg"
-        alt="nodejs"
-        width="50"
-        height="50"
-      />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg"
-        alt="express"
         width="50"
         height="50"
       />
