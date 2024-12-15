@@ -1,11 +1,4 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<p align="center">
-  <img
-    src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"
-    width="300px"
-    height="140"
-  />
-</p>
 <h1 align="center">Hi 👋, I'm Naleena Kumarasinghe</h1>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=nknaleena101&color=gray">
