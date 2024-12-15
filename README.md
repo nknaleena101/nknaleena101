@@ -25,7 +25,7 @@
     <a href="https://linkedin.com/in/in/naleena-kumarasinghe" target="blank">
       <img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg"
         alt="in5naleena-kumarasinghe"
         height="50"
         width="50"
@@ -34,7 +34,7 @@
     <a href="https://fb.com/naleena.kumarasinghe" target="blank">
       <img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg"
         alt="na5eena.kumarasinghe"
         height="50"
         width="50"
@@ -43,7 +43,7 @@
     <a href="https://instagram.com/naleena_nk" target="blank">
       <img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg"
         alt="na5eena_nk"
         height="50"
         width="50"
