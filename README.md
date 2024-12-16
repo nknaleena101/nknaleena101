@@ -3,7 +3,6 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=nknaleena101&color=green">
 </p>
-<h3 align="center">A passionate full stack developer from Sri lanka</h3>
 <div>
   <div>
     <p align="center">🔭 I’m currently working on <a href="https://github.com/nknaleena101/mood_tracker">Mood Tracker</a></p>
