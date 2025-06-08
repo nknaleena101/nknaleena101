@@ -5,9 +5,6 @@
 </p>
 <div>
   <div>
-    <p align="center">🔭 I’m currently working on <a href="https://github.com/nknaleena101/mood_tracker">Mood Tracker</a></p>
-    <p align="center">🌱 I’m currently learning <b>JAVA</b></p>
-    <p align="center">🎓 I’m an Undergraduate at <b>NSBM</b></p>
     <p align="center">📫 How to reach me <a href="mailto:nknaleena101@gmail.com">nknaleena101@gmail.com</a></p>
   </div>
 </div>
