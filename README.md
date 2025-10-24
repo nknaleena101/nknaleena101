@@ -136,18 +136,6 @@
         height="50"
       />
     </a>
-    <a
-      href="https://www.adobe.com/products/xd.html"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://github.com/Scar1109/skill-icons/blob/main/icons/XD.svg"
-        alt="xd"
-        width="50"
-        height="50"
-      />
-    </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img
         src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg"
