@@ -156,10 +156,10 @@
         height="50"
       />
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <a href="https://www.docker.com/en" target="_blank" rel="noreferrer">
       <img
-        src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg"
-        alt="photoshop"
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg"
+        alt="Docker"
         width="50"
         height="50"
       />
