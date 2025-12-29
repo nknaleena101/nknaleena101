@@ -44,14 +44,6 @@
 <div style="text-align: center; margin: 20px 0">
   <h3 align="center" style="margin-bottom: 10px">Languages and Tools:</h3>
   <p align="center" style="display: inline-block; text-align: center">
-      <a href="" target="_blank" rel="noreferrer">
-      <img
-        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg"
-        alt="gsap"
-        width="50"
-        height="50"
-      />
-    </a>
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
@@ -132,6 +124,22 @@
       <img
         src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
         alt="tailwind"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg"
+        alt="gsap"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/framer-dark.svg"
+        alt="frammer motion"
         width="50"
         height="50"
       />
