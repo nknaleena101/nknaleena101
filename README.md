@@ -44,18 +44,10 @@
 <div style="text-align: center; margin: 20px 0">
   <h3 align="center" style="margin-bottom: 10px">Languages and Tools:</h3>
   <p align="center" style="display: inline-block; text-align: center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <a href="" target="_blank" rel="noreferrer">
       <img
-        src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg"
-        alt="html5"
-        width="50"
-        height="50"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-        src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg"
-        alt="css3"
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg"
+        alt="gsap"
         width="50"
         height="50"
       />
@@ -116,6 +108,22 @@
       <img
         src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg"
         alt="nextjs"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/LelouchFR/skill-icons/blob/main/assets/expressjs-dark.svg"
+        alt="expressjs"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="" target="_blank" rel="noreferrer">
+      <img
+        src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg"
+        alt="nodejs"
         width="50"
         height="50"
       />
