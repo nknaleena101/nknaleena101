@@ -11,7 +11,7 @@
 <div style="text-align: center; margin: 20px 0">
   <h3 align="center" style="margin-bottom: 10px">Connect with me:</h3>
   <p align="center" style="display: inline-block">
-    <a href="https://linkedin.com/in/in/naleena-kumarasinghe" target="blank">
+    <a href="https://www.linkedin.com/in/naleena-kumarasinghe/" target="_blank">
       <img
         align="center"
         src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg"
@@ -20,7 +20,7 @@
         width="50"
       />
     </a>
-    <a href="https://fb.com/naleena.kumarasinghe" target="blank">
+    <a href="https://fb.com/naleena.kumarasinghe" target="_blank">
       <img
         align="center"
         src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg"
@@ -29,7 +29,7 @@
         width="50"
       />
     </a>
-    <a href="https://instagram.com/naleena_nk" target="blank">
+    <a href="https://instagram.com/naleena_nk" target="_blank">
       <img
         align="center"
         src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg"
